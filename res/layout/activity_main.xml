@@ -6,7 +6,6 @@
     
     <include
         android:id="@+id/head"
-        android:layout_below="@+id/textView1"
         layout="@layout/item" />
 
     <ListView
